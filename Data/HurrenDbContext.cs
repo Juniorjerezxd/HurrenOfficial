@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Hurren2.Data;
 
-internal class HurrenDbContext : DbContext
+public class HurrenDbContext : DbContext
 {
+    
 }
